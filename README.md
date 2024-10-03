@@ -2,7 +2,7 @@
 
 Phoenix Host Application
 
-## Getting Started
+## v0.0.1 Initial Release
 
 This app is the first app developed for the Phoenix POS System. 
 It will allow the host of the restaurant or bar to seat guests, 
