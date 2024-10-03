@@ -1,0 +1,12 @@
+/home/tlme/TLME Projects/FAP-0001/build/linux/x64/release/bundle/PhoenixHost
+/home/tlme/TLME Projects/FAP-0001/build/linux/x64/release/bundle/data/icudtl.dat
+/home/tlme/TLME Projects/FAP-0001/build/linux/x64/release/bundle/lib/libflutter_linux_gtk.so
+/home/tlme/TLME Projects/FAP-0001/build/linux/x64/release/bundle/data/flutter_assets/version.json
+/home/tlme/TLME Projects/FAP-0001/build/linux/x64/release/bundle/data/flutter_assets/AssetManifest.json
+/home/tlme/TLME Projects/FAP-0001/build/linux/x64/release/bundle/data/flutter_assets/shaders/ink_sparkle.frag
+/home/tlme/TLME Projects/FAP-0001/build/linux/x64/release/bundle/data/flutter_assets/fonts/MaterialIcons-Regular.otf
+/home/tlme/TLME Projects/FAP-0001/build/linux/x64/release/bundle/data/flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf
+/home/tlme/TLME Projects/FAP-0001/build/linux/x64/release/bundle/data/flutter_assets/FontManifest.json
+/home/tlme/TLME Projects/FAP-0001/build/linux/x64/release/bundle/data/flutter_assets/AssetManifest.bin
+/home/tlme/TLME Projects/FAP-0001/build/linux/x64/release/bundle/data/flutter_assets/NOTICES.Z
+/home/tlme/TLME Projects/FAP-0001/build/linux/x64/release/bundle/lib/libapp.so
