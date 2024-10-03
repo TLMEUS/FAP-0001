@@ -14,5 +14,5 @@ and allow to staff to provide better service.
 
 In version A of this app, I created a Restfull API to provide that data that I had hardcoded in
 the original version. This will allow me to create app that will allow me to make data more dynamic, and more
-easily changed for different restaurants. Version C of the app will include to communication
+easily changed for different restaurants. Version B of the app will include to communication
 functions between the host and servers.
