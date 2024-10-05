@@ -16,3 +16,10 @@ In version A of this app, I created a Restfull API to provide that data that I h
 the original version. This will allow me to create app that will allow me to make data more dynamic, and more
 easily changed for different restaurants. Version B of the app will include to communication
 functions between the host and servers.
+
+## Version B
+
+In version of this app, I implemented Firebase to enable the login of users and the notification of 
+the servers. This version include the ability to register a user with firestore auth to use the app
+with firestore capabilities. In future versions, this registration will be removed in favor of a 
+separate app for registration.
