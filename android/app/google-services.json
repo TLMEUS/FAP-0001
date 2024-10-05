@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "253030714529",
+    "project_id": "phoenix-pos-e7671",
+    "storage_bucket": "phoenix-pos-e7671.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:253030714529:android:a7211adc83825e23be74e0",
+        "android_client_info": {
+          "package_name": "us.tlme.phoenixhost"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyActTCbeUwRGdZO8D8jIDzGBbg6SVkcXd8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

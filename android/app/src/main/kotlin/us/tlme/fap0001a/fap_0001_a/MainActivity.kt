@@ -1,4 +1,4 @@
-package us.tlme.fap0001a.fap_0001_a
+package us.tlme.phoenixhost
 
 import io.flutter.embedding.android.FlutterActivity
 
